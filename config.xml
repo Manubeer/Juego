@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="com.h4ckademy.juego_3" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
+    <name>Juego 3</name>
+    <description>
+        Juego 3
+    </description>
+    <author email="h4@h4ckademy.com" href="http://h4ckademy.com">
+        h4ckademy
+    </author>
+    <content src="index.html" />
+    <access origin="*" />
+    <plugin name="cordova-plugin-device-motion"/>
+</widget>
